@@ -8,5 +8,5 @@ def countdown_with_sleep(sec)
     sleep(1)
   end
   x = "HAPPY NEW YEAR!"
-  x
+  puts x
 end
